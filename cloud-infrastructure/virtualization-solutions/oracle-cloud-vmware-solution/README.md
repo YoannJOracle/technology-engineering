@@ -47,12 +47,9 @@ Reviewed: 06.11.2024
 -  [Configure Disaster Recovery using RackWare® with Oracle Cloud VMware Solution](https://docs.oracle.com/en/learn/oci-ocvs-dr-rw/index.html#introduction)
     -  This tutorial summarizes how the entire lifecycle of disaster recovery and business continuity can be effectively managed with Oracle Cloud VMware Solution using RackWare.
       
--  [Configure Disaster Recovery - Cold Standby using RackWare® with Oracle Cloud VMware Solution](https://docs.oracle.com/en/learn/oci-ocvs-dr-rw/index.html#introduction)
+-  [Configure Disaster Recovery - Cold Standby using RackWare® with Oracle Cloud VMware Solution](https://docs.oracle.com/en/learn/oci-ocvs-dr-cs-rw/index.html#introduction)
     -  This tutorial summarizes how RackWare RMM can seamlessly auto provision replicated data from the image repository to the Oracle Cloud VMware Solution for a Cold Standby Disaster Recovery use case and will only be provisioned in the event of Disaster Recovery.
-
--  [Configure Disaster Recovery using RackWare® with Oracle Cloud VMware Solution](https://docs.oracle.com/en/learn/oci-ocvs-dr-cs-rw/index.html#introduction)
-    -  This tutorial describes how you can enable Name Resolution between On-Premises vCenter and Oracle Cloud VMware Solution-powered vCenter.
-
+      
 -  [Oracle Cloud VMware Solution - in-place upgrade how-to guide](https://docs.oracle.com/en/learn/ocvs-inplace-upgrade-6x-7x/)
     -  This tutorial provides an operational overview of how to perform the in-place upgrade for software components running in the 6.x version of SDDC to 7.x. 
 
